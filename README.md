@@ -1,3 +1,5 @@
+<img src=""C:\Users\DELL\Downloads\DALL·E 2024-11-16 23.08.19 - A visually striking illustration of a coder sitting in front of multiple computer screens with colorful lines of code glowing on the screens, surround.webp"" alt="Coder Image" style="display: block; margin: 0 auto;" />
+
 <h1 align="center">Hi 👋, I'm Praphul Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
